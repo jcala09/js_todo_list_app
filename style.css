@@ -1,6 +1,7 @@
 html { 
     height: 100%; 
     min-height: 800px;
+    background-color: rgb(255,182,193) ;
 }
 body {
     height: 80%;
